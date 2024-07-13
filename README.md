@@ -5,17 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankush2003&label=Profile%20views&color=0e75b6&style=flat" alt="kumarankush2003" /> </p>
 
-- 🌱 I’m currently learning **Algorithm,DL**
+<p>🌱 I’m currently learning **Algorithm,DL**</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kumarankush2003?tab=repositories](https://github.com/kumarankush2003?tab=repositories)
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/kumarankush2003?tab=repositories" target="_blank">click_here</a></p>
 
-- 💬 Ask me about **React**
+<p>💬 Ask me about <strong>React</strong></p>
 
-- 📫 How to reach me **ankushkumar642003@gmail.com**
+<p>📫 How to reach me <a href="mailto:ankushkumar642003@gmail.com"><strong>click_here</strong></a></p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vcvYUE7yrgn8u4ccvb2d004KA9QiZyJH/view?usp=sharing](https://drive.google.com/file/d/1vcvYUE7yrgn8u4ccvb2d004KA9QiZyJH/view?usp=sharing)
-
-- ⚡ Fun fact **Singing😂**
+<p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1vcvYUE7yrgn8u4ccvb2d004KA9QiZyJH/view?usp=sharing" target="_blank">click_here</a></p>
+<p>⚡ Fun fact **Singing😂**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
